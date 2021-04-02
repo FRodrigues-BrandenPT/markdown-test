@@ -8,7 +8,7 @@
    - In `SpotlessConfigExtension` the property `ktlintDataMap` is now `ktlintUserData`
 
 
-## [1.0.0-RC1](#) - 2021-04-02
+## [1.0.0-RC1](#100-rc1---2021-04-02) - 2021-04-02
 ### Added
  - Application of the [SpotlessPlugin](https://github.com/diffplug/spotless/tree/main/plugin-gradle) if not applied in the Project
  - Configuration of the `SpotlessExtension`
