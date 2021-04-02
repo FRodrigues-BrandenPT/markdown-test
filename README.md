@@ -9,7 +9,7 @@
 - Only try to find and/or generate the diKTat yaml if there's no path defined in `diktatConfigFile`
 
 ## [1.0.0-RC1](#100-rc1---2021-04-02) - 2021-04-02
-### Added <small>1.0.0-RC1</small>
+### Added `1.0.0-RC1`
  - Application of the [SpotlessPlugin](https://github.com/diffplug/spotless/tree/main/plugin-gradle) if not applied in the Project
  - Configuration of the `SpotlessExtension`
  - For normal kotlin code it's used [diKtat](https://github.com/cqfn/diKTat)
